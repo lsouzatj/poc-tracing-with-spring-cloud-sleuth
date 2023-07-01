@@ -66,6 +66,7 @@
     - spring-boot-starter-web
     - spring-boot-starter-data-jpa
     - spring-boot-devtools
+    - spring-cloud-starter-sleuth
 - Lombok
 - H2
 - Tomcat (Embedded no Spring Boot)
