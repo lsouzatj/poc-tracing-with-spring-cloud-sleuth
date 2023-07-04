@@ -22,7 +22,7 @@
 		</developer>
 	</developers>
 	<groupId>com.br</groupId>
-	<artifactId>monitoring-observability</artifactId>
+	<artifactId>tracing</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>poc-tracing</name>
 	<description>Demo project for Spring Boot</description>
