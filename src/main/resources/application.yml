@@ -1,7 +1,7 @@
 spring:
 
   application:
-    name:poc-tracing
+    name:monitoring-observability
 
   # Producer properties kafka
 #  kafka:
